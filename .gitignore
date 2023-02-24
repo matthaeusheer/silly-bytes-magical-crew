@@ -8,6 +8,7 @@ __pycache__/
 
 # idea
 .idea
+.vscode
 
 # Distribution / packaging
 .Python
@@ -130,3 +131,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.python_packages
